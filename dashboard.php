@@ -1,12 +1,14 @@
   <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 <?php require('parts/header.php');?>
-  
+  <style type="text/css">
+      a {
+        text-decoration: none !important;
+      }
+  </style>
 <div class="page-content">
-        <div class="flex-grid no-responsive-future" style="height: 100%;">
+        <div>
             <div class="row" style="height: 100%">
-               <div class="cell size-x200" id="cell-sidebar" style="background-color: #71b1d1; height: 100%">
-                  
-                 </div>
+               
                  <div class="cell auto-size padding20 bg-white" id="cell-content">
                     
                   
