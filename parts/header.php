@@ -13,6 +13,11 @@
     <link rel="stylesheet" type="text/css" href="css/metro-icons.min.css">
     <link rel="stylesheet" type="text/css" href="css/metro-responsive.min.css">
     <link rel="stylesheet" type="text/css" href="css/metro-rtl.min.css">
+    <link rel="stylesheet" type="text/css" href="css/fontawesome.css">
+    <link href="css/sb-admin.css" rel="stylesheet">
+    <link href="css/morris.css" rel="stylesheet">
+    <link href="css/fontawesome.css" rel="stylesheet" type="text/css">
+
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <link rel="shortcut icon" href="icon/favicon.ico" type="image/x-icon">
   </head>
@@ -24,6 +29,7 @@
         <a class="app-bar-element branding"><span class="mif-cog  mif-ani-spin mif-2x mif-ani-slow"></span> M-Minimax</a>
         <span class="app-bar-divider"></span>
         <ul class="app-bar-menu">
+          <li><a href="dashboard.php">Dashboard</a></li>
             <li><a href="home.php">Equipment</a></li>
             <li>
                 <a href="" class="dropdown-toggle">Work Order</a>
