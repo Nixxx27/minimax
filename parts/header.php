@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="M-Minimax">
     <meta name="author" content="M-Minimax">
-    <title>M-Minimax | Maintenance Management Solution</title>
+    <title>Nikko Zabala | Payroll Solution</title>
     <link rel="stylesheet" type="text/css" href="css/metro.min.css">
     <link rel="stylesheet" type="text/css" href="css/metro-colors.min.css">
     <link rel="stylesheet" type="text/css" href="css/metro-icons.min.css">
@@ -22,34 +22,23 @@
     <link rel="shortcut icon" href="icon/favicon.ico" type="image/x-icon">
   </head>
 
-   <body class="bg-steel">
+   <body>
 
 
     <div class="app-bar fixed-top darcula" data-role="appbar">
-        <a class="app-bar-element branding"><span class="mif-cog  mif-ani-spin mif-2x mif-ani-slow"></span> M-Minimax</a>
+        <a class="app-bar-element branding"><span class="mif-cog  mif-ani-spin mif-2x mif-ani-slow"></span> NZ Payroll Solution</a>
         <span class="app-bar-divider"></span>
         <ul class="app-bar-menu">
           <li><a href="dashboard.php">Dashboard</a></li>
-            <li><a href="home.php">Equipment</a></li>
+           
             <li>
-                <a href="" class="dropdown-toggle">Work Order</a>
+                <a href="" class="dropdown-toggle">Employees</a>
                 <ul class="d-menu" data-role="dropdown">
-                    <li><a href="workorder.php">Work Order List</a></li>
-                    <li><a href="new-workorder.php">Add New</a></li>
+                    <li><a href="employees.php">Employee List</a></li>
+                    <li><a href="new-employee.php">Add New</a></li>
                     
                 </ul>
             </li>
-            <li><a href="trouble-call.php">Trouble Calls</a></li>
-            <li>
-                <a href="" class="dropdown-toggle">Preventive Maintenance</a>
-                <ul class="d-menu" data-role="dropdown">
-                    <li><a href="pm.php">PM List</a></li>
-                    <li><a href="new-pm.php">Add New PM</a></li>
-                    
-                </ul>
-            </li>
-
-            <li><a href="spare.php">Spare</a></li>
             <li>
                 <a href="" class="dropdown-toggle">Help</a>
                 <ul class="d-menu" data-role="dropdown">

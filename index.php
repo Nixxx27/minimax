@@ -7,7 +7,7 @@ if (isset($_POST['login']))
   if (!empty($un) && !empty($pw) )
     {
       if($un ==='ADMIN' && $pw==="ADMIN"){
-        header("Location: home.php");
+        header("Location: employees.php");
         die();
       }
     }
@@ -75,7 +75,7 @@ if (isset($_POST['login']))
                 <button type="button" class="button link">Cancel</button>
             </div>
         </form>
-        <h4 style="color:white;text-align:center;margin-top:50px;font-size:150%"><span class="mif-cog  mif-ani-spin"></span><small> M-Minimax Maintenance Management Solution. </small> </h4>
+        <h4 style="color:white;text-align:center;margin-top:50px;font-size:150%"><span class="mif-cog  mif-ani-spin"></span><small>Nikko Zabala | Payroll Solution. </small> </h4>
     </div>
 </div>
   </body>

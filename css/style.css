@@ -22,3 +22,10 @@
                 flex-basis: calc(100% - 52px);
             }
         }
+
+
+@media print {
+    .nottoprint {
+      display: none;
+    }
+}

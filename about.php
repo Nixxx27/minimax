@@ -10,7 +10,7 @@
                  <div class="cell auto-size padding20 bg-white" id="cell-content">
                     <h1 class="text-light">About<span class="mif-cogs place-right   mif-ani-heartbeat mif-ani-slow"></span></h1>
                     <hr class="thin bg-grayLighter">
-                 	<h1>M-Minimax Maintenance Management Solution.</h1>
+                 	<h1>Nikko Zabala | Payroll Solution.</h1>
                 </div>
             </div>
         </div>
